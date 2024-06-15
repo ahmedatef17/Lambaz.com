@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "price": "EGP 100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image": "product1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "price": "EGP 150",
+        "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "image": "product2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "price": "EGP 120",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "image": "product3.jpg"
+    }
+]
